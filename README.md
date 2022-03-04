@@ -1,6 +1,12 @@
 # CNVD-2021-28277poc
 目前-t参数预保留,有空再写,单线程先凑合着用
 
+Linux:用这个CNVD-2021-28277
+
+Windows:用这个CNVD-2021-28277.exe
+
+没有上传源码是因为自己刚学go,就不献丑了
+
 用法:
 
  --url value, -u value     set a target url
